@@ -28,7 +28,7 @@ To get started with this project, ensure you have Java, MySQL, and Maven install
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/RAVIKUMAR-VAGGA/Blog-Application?tab=readme-ov-file
+git clone https://github.com/RAVIKUMAR-VAGGA/Blog-Application
 Navigate to the project directory:
 bash
 Copy code
