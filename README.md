@@ -35,11 +35,5 @@ Copy code
 cd blog-application
 Update the application.properties file with your MySQL database configuration:
 
-# properties
-Copy code
-spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
-spring.datasource.username=your_mysql_username
-spring.datasource.password=your_mysql_password
-
 # Contributing
 Contributions are welcome! Please feel free to open a pull request or submit an issue for any bugs, feature requests, or enhancements.
