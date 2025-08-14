@@ -34,6 +34,3 @@ bash
 Copy code
 cd blog-application
 Update the application.properties file with your MySQL database configuration:
-
-# Contributing
-Contributions are welcome! Please feel free to open a pull request or submit an issue for any bugs, feature requests, or enhancements.
